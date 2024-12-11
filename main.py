@@ -9,7 +9,7 @@ from pypresence import Presence
 
 bot = commands.Bot(">", self_bot = True)
 
-dcToken = "NDcxNjMxNzczMzk1MzIwODM0.YUx1-A.IVTClU9Ip8kQpq1LbfR3otTf2dY" # YOUR DISCORD TOKEN HERE
+dcToken = "MTIzMDEyNzA5NTY1MzQ3MDMwMA.GWD3M9.iGOYcIQvwHC48cG9IfoP16Wq9XmSPfMRyOCNys" # YOUR DISCORD TOKEN HERE
 
 version = "3"
 
